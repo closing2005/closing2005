@@ -26,7 +26,6 @@
 
 ### Connect
 
-[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/TesAcesas)
 [![Website](https://img.shields.io/badge/Website-0A1120?style=flat-square&logo=googlechrome&logoColor=white)](https://zhengdao.cc)
 [![Email](https://img.shields.io/badge/Email-D9E0EA?style=flat-square&logo=gmail&logoColor=black)](mailto:contact@zhengdao.cc)
 
